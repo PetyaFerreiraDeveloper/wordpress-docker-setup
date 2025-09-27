@@ -1,5 +1,6 @@
 # 🧱 WordPress Dev Setup (Dockerized)
 
+This repository have been developed by [Zarko Djuric](https://github.com/djuric).
 This repository offers a minimal Docker-based setup for WordPress development, enabling you to spin up a local environment quickly without complex configuration.
 
 ## 🚀 Quick Start
