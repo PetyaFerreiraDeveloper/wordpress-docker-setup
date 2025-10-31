@@ -188,3 +188,5 @@ The uploads folder contains all media files for the project.
 ## 🔄 Restart docker containers
 
 ## ✅ From docker interface you have access to the local project installation and to phpMyAdmin
+
+## NB: In case you see warnings and notices - it is best to resolve them, but if they are caused by plugins and it takes too long to resolve, you can add this line to docker-compose.yml file: `define( 'WP_DEBUG_DISPLAY', false );`. This will hide them.
