@@ -1,4 +1,4 @@
-FROM wordpress:latest
+FROM wordpress:php8.4-apache
 
 # Install sudo in order to run wp-cli as the www-data user 
 # install mysql client, text editors
